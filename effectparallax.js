@@ -1,5 +1,3 @@
-window.addEventListener("scroll", effectParallax);
-
 function effectParallax() {
 
     var effect = 1.8;
@@ -25,3 +23,4 @@ function effectParallax() {
     }
 
 }
+window.addEventListener("scroll", effectParallax);
