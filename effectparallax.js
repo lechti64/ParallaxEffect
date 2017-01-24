@@ -6,7 +6,7 @@ function effectParallax() {
     var elm = document.getElementsByClassName("parallax");
     var i = 0;
 
-    for (var i=0;i<elm.length; i++) {
+    while (elm[i]) {
         elmoffsetTop = elm[i].offsetTop;
         elmoffsetWidth = elm[i].offsetWidth;
         scrollPos = window.pageYOffset;
@@ -21,7 +21,7 @@ function effectParallax() {
           }
 
         }
-
+        i++;
     }
 
 }
