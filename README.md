@@ -18,3 +18,5 @@ arquivo effectparallax.js:
 ```javascript
 var effect = 1.8;
 ```
+
+###Veja o efeito sendo aplicado. [DEMO](https://willianlaino.github.io/)
