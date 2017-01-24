@@ -1,4 +1,4 @@
-# Effect Parallax
+# Parallax effect 
 ### Como usar:
 
 #### Passo 1: Chame o arquivo effectparallax.js no seu html
