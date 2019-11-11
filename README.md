@@ -44,37 +44,37 @@ Vous pouvez y modifier cette valeur par la votre:
 ### Preliminary:
 Send the file effectparallax.js to the root of your website or to a folder of your choice located on your server online
 #### Step 1 :: Call the effectparallax.js file in your HTML code.
-`` `Hmtl
+```Hmtl
 <script type = "text / javascript" src = "effectparallax.js"> </ script>
-`` `
+```
 #### Step 2: Add the class "parallax" to the html tag where the effect will be applied.
 To place in the HTML tag that will display the object with a parallax effect.
 ### Examples:
-`` `
+```
   "The body of your content in HTML (Header of a site)"
      <header class = "parallax"> Your content here ... </ header>
   "End of your HTML content"
-`` `
-`` `
+```
+```
   "The body of your content in HTML (Text)"
       <p class = "parallax"> Your content here ... </ p>
   "End of your HTML content"
-`` `
-`` `
+```
+```
   "The body of your content in HTML (Image)"
       <img class = "parallax" src = "Your content here ..." />
   "End of your HTML content"
-`` `
-`` `
+```
+```
   "The body of your content in HTML (Iframe)"
       <iframe class = "parallax" src = "Your content here ..."> </ iframe>
   "End of your HTML content"
-`` `
+```
 The next step is optional.
 #### Step 3 (optional): Adjust the value of the effect variable to get a better result.
 Open the file effectparallax.js:
 You can change this value by yours:
-`` `
+```
      effect var = 1.8;
-`` `
+```
 ### An example of the applied effect is visible here [DEMO]: (https://willianlaino.github.io/)
