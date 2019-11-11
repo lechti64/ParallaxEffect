@@ -10,23 +10,23 @@ Envoyer le fichier effectparallax.js à la racine de votre site web ou dans un d
 A placer dans la balise HTML qui affichera l'objet avec un effet de parallaxe.
 ### Exemples:
 ```
-  "Le corps de votre contenu en HTML"
- Header d'un site ====>  <header class = "parallax">Votre contenu ici...</ header>
+  "Le corps de votre contenu en HTML (Header d'un site)"
+     <header class = "parallax">Votre contenu ici...</ header>
   "Fin de votre contenu en HTML"
 ```
 ```
-  "Le corps de votre contenu en HTML"
-Du texte ==========>  <p class="parallax">Votre contenu ici...</p>
+  "Le corps de votre contenu en HTML (Du texte)"
+      <p class="parallax">Votre contenu ici...</p>
   "Fin de votre contenu en HTML"
 ```
 ```
-  "Le corps de votre contenu en HTML"
-Sur une image =====>  <img class="parallax" src="Votre contenu ici..." />
+  "Le corps de votre contenu en HTML (Image)"
+      <img class="parallax" src="Votre contenu ici..." />
   "Fin de votre contenu en HTML"
 ```
 ```
-  "Le corps de votre contenu en HTML"
-Pour une Iframe ==>  <iframe class="parallax" src="Votre contenu ici..."></iframe>
+  "Le corps de votre contenu en HTML (Iframe)"
+      <iframe class="parallax" src="Votre contenu ici..."></iframe>
   "Fin de votre contenu en HTML"
 ```
 La prochaine étape est facultative.
